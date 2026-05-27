@@ -1,5 +1,6 @@
 # finalassesment-ict171
 my sail results project
+52.229.228.34 - sail-results.org
 
 ## Before building the website
 ###Microsoft Azure
