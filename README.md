@@ -3,9 +3,9 @@ my sail results project
 52.229.228.34 - sail-results.org
 
 ## Before building the website
-###Microsoft Azure
--Create a resource group (location: Australia East)
--Create a vertial machine ; operating system, Linux(ubuntu 24.04)
+  Microsoft Azure
+ -Create a resource group (location: Australia East)
+ -Create a vertial machine ; operating system, Linux(ubuntu 24.04)
                            Location, East Asia
 
 
