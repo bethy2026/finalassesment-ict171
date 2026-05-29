@@ -32,8 +32,8 @@ to link your azure vertial machine to wordpress to creat the website
 
 ## Securing the site
 Using https://letsencrypt.org/getting-started/
-1. first insureyou can ssh into your machine 
-ssh -i pemkey.pem azureuser@domain_name.org
+1. first insureyou can ssh into your machine, 
+ssh -i pemkey.pem azureuser@sail-results.org (or 52.229.228.34)
 2. and that you can see your webpage in a browser
 3. ensure that yoyr vm has ports 22, 80 and 443
 4. when asked what your using select "Nginx" and "Linux (snap)"
