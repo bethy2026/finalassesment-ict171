@@ -12,7 +12,19 @@ my sail results project
 ## Connecting the Azure virtual machine to wordpress
 https://shieldstech.com.au/2093-2/
 to link your azure vertial machine to wordpress to creat the website
- - then go into the link http://<52.229.228.34>/wp-admin.
+ 1. create new apache configoration with
+ sudo nano /etc/apache2/sites-available/wordpress.conf  
+ 2. then go into the link http://<52.229.228.34>/wp-admin.
+ 
+ ## Linking the DNS sail-results.org
+ 1. after perchacing the personal plan in wordpress it allows you to link your domain name to the website you are making
+ 2. in your dashboard go to upgrades then Domains
+ 3. select add new domain --> use a domain I own
+ 4. type in the domain name then select connect your domain name
+ 5. click start setup
+ 6. find your domain provider 
+ 7. then select advanced set up
+ 8. from there follow the instruction on what to insert into your domain provider 
 
 
   
