@@ -1,7 +1,8 @@
 # finalassesment-ict171
 my sail results project
 52.229.228.34 - sail-results.org
-Elisabeth E B Smith - 35578124
+1. Elisabeth E B Smith - 35578124
+2. video explainer link - https://youtu.be/bfJUKiQm8Es 
 
 ## Before building the website
   Microsoft Azure
