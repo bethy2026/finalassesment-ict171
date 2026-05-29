@@ -38,4 +38,8 @@ ssh -i pemkey.pem azureuser@domain_name.org
 3. ensure that yoyr vm has ports 22, 80 and 443
 4. when asked what your using select "Nginx" and "Linux (snap)"
 5. then follow the prompts in your teminal
+
+## Make the website
+1. add pages for extra content
+2. insert text and images into wordpress and continue to check on your terminal
   
