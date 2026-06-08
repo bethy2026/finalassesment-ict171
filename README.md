@@ -1,6 +1,6 @@
 # finalassesment-ict171
 my sail results project
-52.229.228.34 - sail-results.org
+52.229.228.34 - sail-resultsorg.wordpress.com
 1. Elisabeth E B Smith - 35578124
 2. video explainer link - https://youtu.be/bfJUKiQm8Es 
 
